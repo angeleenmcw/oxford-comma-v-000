@@ -10,5 +10,6 @@ def oxford_comma(array)
   count = 0 
   while count < array.length - 1 
   a << array[count]  + ", "
+  count = count + 1 
   
     
