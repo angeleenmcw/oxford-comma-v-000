@@ -8,5 +8,6 @@ def oxford_comma(array)
   b = []
   str = " "
   count = 0 
-  while count < array.length
+  while count < array.length - 1 
+  
     
