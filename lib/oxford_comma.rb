@@ -13,4 +13,5 @@ def oxford_comma(array)
   count = count + 1 
 end
 a.join
+a.push
     
