@@ -9,5 +9,6 @@ def oxford_comma(array)
   str = " "
   count = 0 
   while count < array.length - 1 
-  a << array[count]  + ", " + 
+  a << array[count]  + ", "
+  
     
