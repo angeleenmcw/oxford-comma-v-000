@@ -7,5 +7,6 @@ def oxford_comma(array)
   a = []
   b = []
   str = " "
-  
+  count = 0 
+  while count < array.length
     
