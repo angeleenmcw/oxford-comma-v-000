@@ -4,5 +4,8 @@ def oxford_comma(array)
   elseif array.length == 2 
     return array[0] + " and " + array[1]
   else array.length > 2 
-    return
+  a = []
+  b = []
+  str = " "
+  
     
