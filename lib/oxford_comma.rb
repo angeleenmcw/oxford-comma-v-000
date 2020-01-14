@@ -1,4 +1,4 @@
 def oxford_comma(array)
- myarray = ["fiddleheads","okra","kohlrabi"].join(",")
- myarray.insert(-12,"and")
+ myarray = ["fiddleheads","okra","kohlrabi"]
+ myarray.join(",").insert(-12,"and")
 end
