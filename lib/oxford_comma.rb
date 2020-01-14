@@ -15,3 +15,4 @@ end
 a.join
 a.push("and " + array[-1])
 end
+end
